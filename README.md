@@ -2,7 +2,7 @@
 
 Creates a passport for your cats within minutes
 
-[Passport Maker](https://raw.githubusercontent.com/electrone901/passport-Makers-for-cats-/main/passport-maker.png)
+![Passport Maker](https://raw.githubusercontent.com/electrone901/passport-Makers-for-cats-/main/passport-maker.png)
 
 [WebViewer](https://www.pdftron.com/documentation/web/) is a powerful JavaScript-based PDF Library that's part of the [PDFTron PDF SDK](https://www.pdftron.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
